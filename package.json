@@ -1,0 +1,15 @@
+{
+  "name": "trackingwarframe",
+  "private": true,
+  "scripts": {
+    "front": "npm --prefix ./daily-tracker run dev",
+    "back": "node ./daily-tracker-back/server.js",
+    "dev": "concurrently \"npm run front\" \"npm run back\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  },
+  "dependencies": {
+    "@dnd-kit/core": "^6.3.1"
+  }
+}

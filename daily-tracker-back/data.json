@@ -1,0 +1,120 @@
+{
+  "columns": [
+    {
+      "id": "Sortie",
+      "cat": "cat-1750611278342"
+    },
+    {
+      "id": "Circuit SP",
+      "cat": "cat-1750611278342"
+    },
+    {
+      "id": "Circuit Standard",
+      "cat": "cat-1750611278342"
+    },
+    {
+      "id": "Nightwave",
+      "cat": "cat-1750611278342"
+    },
+    {
+      "id": "ST Ostron",
+      "cat": "cat-default"
+    },
+    {
+      "id": "ST The Quills",
+      "cat": "cat-default"
+    },
+    {
+      "id": "ST Solaris",
+      "cat": "cat-default"
+    },
+    {
+      "id": "ST Ventkids",
+      "cat": "cat-default"
+    },
+    {
+      "id": "ST Vox Solaris",
+      "cat": "cat-default"
+    },
+    {
+      "id": "ST Entrati",
+      "cat": "cat-default"
+    },
+    {
+      "id": "ST Necraloid",
+      "cat": "cat-default"
+    },
+    {
+      "id": "ST The Holdfasts",
+      "cat": "cat-default"
+    },
+    {
+      "id": "ST Focus School",
+      "cat": "cat-default"
+    },
+    {
+      "id": "ST Höllvania",
+      "cat": "cat-default"
+    },
+    {
+      "id": "Arbitrations",
+      "cat": "cat-default"
+    },
+    {
+      "id": "Helminth",
+      "cat": "cat-default"
+    },
+    {
+      "id": "Bot Serveur Rebirth",
+      "cat": "cat-1750852572459"
+    },
+    {
+      "id": "Site Enlisted",
+      "cat": "cat-1750852572459"
+    },
+    {
+      "id": "Site RL",
+      "cat": "cat-1750852572459"
+    },
+    {
+      "id": "RL Story",
+      "cat": "cat-1750852572459"
+    },
+    {
+      "id": "Bot Analytics",
+      "cat": "cat-1750852572459"
+    }
+  ],
+  "days": {
+    "2025-06-22": {
+      "ST Solaris": false,
+      "ST Focus School": false,
+      "ST Höllvania": true
+    },
+    "2025-06-24": {
+      "ST Höllvania": true,
+      "Circuit SP": true
+    },
+    "2025-06-25": {
+      "ST Entrati": true
+    }
+  },
+  "categories": [
+    {
+      "id": "cat-default",
+      "name": "Général"
+    },
+    {
+      "id": "cat-1750611278342",
+      "name": "Repeatable"
+    },
+    {
+      "id": "cat-1750851338912",
+      "name": "Termine"
+    },
+    {
+      "id": "cat-1750852572459",
+      "name": "Jarvinge"
+    }
+  ]
+}
